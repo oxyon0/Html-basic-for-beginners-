@@ -1,0 +1,16 @@
+<html>
+  <title>
+    xyz
+  </title>
+  <style>
+    h1{
+      background-color: green;
+      color: red;
+      text-align: center;
+     font-family: standard;
+    }
+  </style>
+  <body><h1>
+    hello
+  </h1></body>
+</html>
